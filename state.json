@@ -1,5 +1,5 @@
 {
- "offset": 40395330,
+ "offset": 40395331,
  "seen": [
   "4131050c81",
   "28a0a86578",
@@ -265,7 +265,11 @@
   "32cf64ea88",
   "41b3bf8418",
   "aa8cdca126",
-  "129974a76b"
+  "129974a76b",
+  "c2266bb4de",
+  "0e4e30603c",
+  "0a72949c99",
+  "2cc95aad8c"
  ],
  "pending": {
   "a44020d9d5": {
@@ -435,6 +439,30 @@
    "link": "https://suspilne.media/rivne/1457881-vikradenna-62-mln-grn-z-rahunkiv-pidpriemstv-proveli-obsuki-na-rivnensini-ta-u-kievi/",
    "source": "Суспільне",
    "mid": 35
+  },
+  "c2266bb4de": {
+   "title": "Тисяча років традиції: на Чернігівщині можна побачити та потримати в руках 25 копій давніх керамічних виробів",
+   "link": "https://cheline.com.ua/news/society/tysyacha-rokiv-tradytsiyi-na-chernigivshhyni-mozhna-pobachyty-ta-potrymaty-v-rukah-25-kopij-davnih-keramichnyh-vyrobiv-827895?utm_source=rss&utm_medium=rss&utm_campaign=tysyacha-rokiv-tradytsiyi-na-chernigivshhyni-mozhna-pobachyty-ta-potrymaty-v-rukah-25-kopij-davnih-keramichnyh-vyrobiv",
+   "source": "ЧЕline",
+   "mid": 36
+  },
+  "0e4e30603c": {
+   "title": "45 родин із Прилук отримають компенсацію за житло, знищене внаслідок ракетного удару. Яким буде її розмір?",
+   "link": "https://cntime.cn.ua/45-rodin-iz-priluk-otrimayut-kompensaciyu-za-zhitlo-znishene-vnaslidok-raketnogo-udaru-yakim-bude-yi-article/",
+   "source": "Час Чернігівський",
+   "mid": 37
+  },
+  "0a72949c99": {
+   "title": "У ЦНАПі Чернігова почали видавати нову довідку",
+   "link": "https://cntime.cn.ua/u-cnapi-chernigova-pochali-vidavati-novu-dovidku-article/",
+   "source": "Час Чернігівський",
+   "mid": 38
+  },
+  "2cc95aad8c": {
+   "title": "Жінка продає молоко від фермера з пластикової бочки: почім",
+   "link": "https://cntime.cn.ua/zhinka-prodaye-moloko-vid-fermera-z-plastikovoyi-bochki-pochim-article/",
+   "source": "Час Чернігівський",
+   "mid": 39
   }
  },
  "first_run": false
