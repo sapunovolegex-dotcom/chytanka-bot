@@ -284,7 +284,12 @@
   "1203fe1bcc",
   "51ea374e38",
   "d096c61e3f",
-  "7fd2928f13"
+  "7fd2928f13",
+  "5cc1e55aca",
+  "0019208abf",
+  "e991d4e207",
+  "7cf2575cff",
+  "d7145a9eb7"
  ],
  "pending": {
   "a44020d9d5": {
@@ -568,6 +573,36 @@
    "link": "https://suspilne.media/odesa/1457900-a-beru-vazkih-tvarin-v-izmaili-zoovolonter-zbuduvav-pritulok-dla-travmovanih-i-pokinutih-kotiv-ta-sobak/",
    "source": "Суспільне",
    "mid": 54
+  },
+  "5cc1e55aca": {
+   "title": "У Роменській громаді через атаку РФ пошкоджене приміщення і зайнялась пожежа",
+   "link": "https://suspilne.media/sumy/1458038-u-romenskij-gromadi-cerez-ataku-rf-poskodzene-primisenna-i-zajnalas-pozeza/",
+   "source": "Суспільне",
+   "mid": 55
+  },
+  "0019208abf": {
+   "title": "Від домашньої кухні до власного виробництва: як родина з Чорноморська виготовляє веганські цукерки",
+   "link": "https://suspilne.media/odesa/1457991-vid-domasnoi-kuhni-do-vlasnogo-virobnictva-ak-rodina-z-cornomorska-vigotovlae-veganski-cukerki/",
+   "source": "Суспільне",
+   "mid": 56
+  },
+  "e991d4e207": {
+   "title": "Україна запропонувала Канаді долучитися до Фонду страхування воєнних ризиків — Корецький",
+   "link": "https://suspilne.media/1458040-ukraina-zaproponuvala-kanadi-dolucitisa-do-fondu-strahuvanna-voennih-rizikiv-koreckij/",
+   "source": "Суспільне",
+   "mid": 57
+  },
+  "7cf2575cff": {
+   "title": "ТРК «Проспект» у Києві після нічної атаки працює у штатному режимі",
+   "link": "https://suspilne.media/kyiv/1458001-trk-prospekt-u-kievi-pisla-nicnoi-ataki-pracue-u-statnomu-rezimi/",
+   "source": "Суспільне",
+   "mid": 58
+  },
+  "d7145a9eb7": {
+   "title": "Втратив руку під час розмінування на Херсонщині. Історія піротехніка з Франківська Володимира Сірка",
+   "link": "https://suspilne.media/ivano-frankivsk/1457824-vtrativ-ruku-pid-cas-rozminuvanna-na-hersonsini-istoria-pirotehnika-z-frankivska-volodimira-sirka/",
+   "source": "Суспільне",
+   "mid": 59
   }
  },
  "first_run": false
