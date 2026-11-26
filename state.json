@@ -241,7 +241,12 @@
   "002f4ba95e",
   "659de7c134",
   "93e97d2817",
-  "90808fb6fe"
+  "90808fb6fe",
+  "f74e6587c0",
+  "ae325a9086",
+  "2b71807f4d",
+  "a099bc2bcf",
+  "3f8ed3f19b"
  ],
  "pending": {
   "a44020d9d5": {
@@ -273,6 +278,36 @@
    "link": "https://suspilne.media/crimea/1457665-postijnij-bil-u-spini-u-krimskogo-politvazna-vladlena-abdulkadirova-pogirsivsa-stan-zdorova-druzina/",
    "source": "Суспільне",
    "mid": 11
+  },
+  "f74e6587c0": {
+   "title": "На Чернігівщині засудили чоловіка, який продав автомат і гранати із СІЗО",
+   "link": "https://cheline.com.ua/news/society/na-chernigivshhyni-zasudyly-cholovika-yakyj-prodav-avtomat-i-granaty-iz-sizo-827862?utm_source=rss&utm_medium=rss&utm_campaign=na-chernigivshhyni-zasudyly-cholovika-yakyj-prodav-avtomat-i-granaty-iz-sizo",
+   "source": "ЧЕline",
+   "mid": 12
+  },
+  "ae325a9086": {
+   "title": "У Вінниці під час пожежі у дев'ятиповерхівці врятували 81-річну жінку",
+   "link": "https://suspilne.media/vinnytsia/1457730-u-vinnici-pid-cas-pozezi-u-devatipoverhivci-vratuvali-81-ricnu-zinku/",
+   "source": "Суспільне",
+   "mid": 13
+  },
+  "2b71807f4d": {
+   "title": "Начальниці «бюджетного відділу» окупаційної адміністрації Херсона заочно повідомили про підозру",
+   "link": "https://suspilne.media/kherson/1457689-nacalnici-budzetnogo-viddilu-okupacijnoi-administracii-hersona-zaocno-povidomili-pro-pidozru/",
+   "source": "Суспільне",
+   "mid": 14
+  },
+  "a099bc2bcf": {
+   "title": "ВАКС почав розглядати апеляцію на запобіжний захід Дуці",
+   "link": "https://suspilne.media/1457728-vaks-pocav-rozgladati-apelaciu-na-zapobiznij-zahid-duci/",
+   "source": "Суспільне",
+   "mid": 15
+  },
+  "3f8ed3f19b": {
+   "title": "Два сейви голкіпера «Шахтаря» Різника увійшли до переліку найкращих моментів ігрового дня Ліги чемпіонів",
+   "link": "https://suspilne.media/sport/1457676-dva-sejvi-golkipera-sahtara-riznika-uvijsli-do-pereliku-najkrasih-momentiv-igrovogo-dna-ligi-cempioniv/",
+   "source": "Суспільне",
+   "mid": 16
   }
  },
  "first_run": false
