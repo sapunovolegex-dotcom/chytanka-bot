@@ -246,7 +246,12 @@
   "ae325a9086",
   "2b71807f4d",
   "a099bc2bcf",
-  "3f8ed3f19b"
+  "3f8ed3f19b",
+  "15da5ebe02",
+  "00b11616de",
+  "b9b430aa6f",
+  "1b89db5d23",
+  "541ec3fe91"
  ],
  "pending": {
   "a44020d9d5": {
@@ -308,6 +313,36 @@
    "link": "https://suspilne.media/sport/1457676-dva-sejvi-golkipera-sahtara-riznika-uvijsli-do-pereliku-najkrasih-momentiv-igrovogo-dna-ligi-cempioniv/",
    "source": "Суспільне",
    "mid": 16
+  },
+  "15da5ebe02": {
+   "title": "Найстаршому нареченому – 74 роки: у Сновській громаді цьогоріч зареєстрували 47 шлюбів",
+   "link": "https://cheline.com.ua/news/najstarshomu-narechenomu-74-roky-u-snovskij-gromadi-tsogorich-zareyestruvaly-47-shlyubiv-827880?utm_source=rss&utm_medium=rss&utm_campaign=najstarshomu-narechenomu-74-roky-u-snovskij-gromadi-tsogorich-zareyestruvaly-47-shlyubiv",
+   "source": "ЧЕline",
+   "mid": 17
+  },
+  "00b11616de": {
+   "title": "Четверо дітей залишилися без батька: на Чернігівщині прощалися з воїном",
+   "link": "https://cheline.com.ua/news/vijna/chetvero-ditej-zalyshylysya-bez-batka-na-chernigivshhyni-proshhalysya-z-voyinom-827867?utm_source=rss&utm_medium=rss&utm_campaign=chetvero-ditej-zalyshylysya-bez-batka-na-chernigivshhyni-proshhalysya-z-voyinom",
+   "source": "ЧЕline",
+   "mid": 18
+  },
+  "b9b430aa6f": {
+   "title": "Перебуваючи у СІЗО, збував зброю: жителя Чернігівщини засудили до 5 років і 6 місяців позбавлення волі",
+   "link": "https://suspilne.media/chernihiv/1457697-perebuvauci-u-sizo-zbuvav-zbrou-zitela-cernigivsini-zasudili-do-5-rokiv-i-6-misaciv-pozbavlenna-voli/",
+   "source": "Суспільне",
+   "mid": 19
+  },
+  "1b89db5d23": {
+   "title": "«Збитків, попередньо, на десятки мільйонів»: що відомо про пошкодження «Локомотива» у Харкові через атаку РФ",
+   "link": "https://suspilne.media/kharkiv/1457764-zbitkiv-poperedno-na-desatki-miljoniv-so-vidomo-pro-poskodzenna-lokomotiva-u-harkovi-cerez-ataku-rf/",
+   "source": "Суспільне",
+   "mid": 20
+  },
+  "541ec3fe91": {
+   "title": "На Вінниччині водій отримав чотири роки в’язниці за ДТП із семирічною дитиною",
+   "link": "https://suspilne.media/vinnytsia/1457757-na-vinniccini-vodij-otrimav-cotiri-roki-vaznici-za-dtp-iz-semiricnou-ditinou/",
+   "source": "Суспільне",
+   "mid": 21
   }
  },
  "first_run": false
