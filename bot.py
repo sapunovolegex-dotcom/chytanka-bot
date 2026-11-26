@@ -133,6 +133,8 @@ def collect_news(state):
             state["seen"].append(key)
             if state.get("first_run"):
                 continue  # перший запуск: запам'ятовуємо старі новини, не засипаємо адміна
+            if feed.get("link_contains") and feed["link_contains"] not in item["link"]:
+                continue
             text = (item["title"] + " " + item.get("description", "")).lower()
             if feed.get("filter") and words and not any(w in text for w in words):
                 continue
