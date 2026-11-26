@@ -141,7 +141,7 @@ def collect_news(state):
                 continue
             summary = item.get("description") or item.get("summary") or ""
             msg = api("sendMessage", chat_id=ADMIN_ID, parse_mode="HTML",
-                      disable_web_page_preview=True,
+                      link_preview_options={"url": item["link"], "prefer_large_media": True, "show_above_text": True},
                       text=(f"📰 <b>{esc(item['title'])}</b>\n\n{esc(summary[:400])}\n\n"
                             f"Джерело: {esc(feed['name'])}\n{esc(item['link'])}\n\n"
                             "<i>Кнопка публікує заголовок із посиланням. Щоб опублікувати своїми "
@@ -157,6 +157,7 @@ def collect_news(state):
 def publish_news(p, own_text=None):
     body = esc(own_text) if own_text else f"<b>{esc(p['title'])}</b>"
     return api("sendMessage", chat_id=CHANNEL_ID, parse_mode="HTML",
+               link_preview_options={"url": p["link"], "prefer_large_media": True, "show_above_text": True},
                text=f"{body}\n\n<a href=\"{html.escape(p['link'])}\">Джерело: {esc(p['source'])}</a>")
 
 
