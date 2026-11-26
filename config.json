@@ -1,8 +1,46 @@
 {
   "feeds": [
-    {"name": "ЧЕline", "url": "https://cheline.com.ua/rss", "filter": false}
+    {
+      "name": "ЧЕline",
+      "url": "https://cheline.com.ua/rss",
+      "filter": false
+    },
+    {
+      "name": "Суспільне",
+      "url": "https://suspilne.media/rss/all.rss",
+      "filter": true
+    },
+    {
+      "name": "Час Чернігівський",
+      "url": "https://cntime.cn.ua/rss.xml",
+      "filter": false
+    },
+    {
+      "name": "0462.ua",
+      "url": "https://www.0462.ua/rss",
+      "filter": false
+    },
+    {
+      "name": "Біла хата",
+      "url": "https://bilahata.net/feed/",
+      "filter": false
+    }
   ],
-  "keywords": ["чернігів", "ніжин", "прилук", "корюків", "новгород-сіверськ", "сосниц", "мена", "бахмач", "борзн", "городн"],
+  "keywords": [
+    "чернігів",
+    "ніжин",
+    "прилук",
+    "корюків",
+    "новгород-сіверськ",
+    "сосниц",
+    "бахмач",
+    "борзн",
+    "городн",
+    "семенівк",
+    "сновськ",
+    "менськ",
+    "славутич"
+  ],
   "max_proposals_per_run": 5,
   "delete_links": true,
   "start_text": "Привіт! 🕊 Це бот каналу «Читанка на зв'язку».\n\nМаєте новину чи анонс зі свого міста або села на Чернігівщині? Надішліть сюди текст, фото чи відео одним повідомленням. Ми перевіримо й опублікуємо в каналі.",
