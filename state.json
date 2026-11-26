@@ -256,7 +256,11 @@
   "59a035159d",
   "3bb4631eae",
   "224888bbd3",
-  "c0cccf04a9"
+  "c0cccf04a9",
+  "60d3c9d72a",
+  "55f0311980",
+  "bdee172163",
+  "781dad972b"
  ],
  "pending": {
   "a44020d9d5": {
@@ -378,6 +382,30 @@
    "link": "https://suspilne.media/zaporizhzhia/1457743-rosijskij-udar-obirvav-zitta-cotiroh-slidcih-policii-zaporizkoi-oblasti/",
    "source": "Суспільне",
    "mid": 26
+  },
+  "60d3c9d72a": {
+   "title": "В ангар з картоплею прилетів дрон: подробиці про удар по господарству на прикордонні Чернігівщини (Фото)",
+   "link": "https://cheline.com.ua/news/v-angar-z-kartopleyu-pryletiv-dron-podrobytsi-pro-udar-po-gospodarstvu-na-prykordonni-chernigivshhyny-foto-827878?utm_source=rss&utm_medium=rss&utm_campaign=v-angar-z-kartopleyu-pryletiv-dron-podrobytsi-pro-udar-po-gospodarstvu-na-prykordonni-chernigivshhyny-foto",
+   "source": "ЧЕline",
+   "mid": 27
+  },
+  "55f0311980": {
+   "title": "Щоб люди відчували себе як вдома: у Чернігові відкрили гуртожиток для ВПО",
+   "link": "https://cntime.cn.ua/shob-lyudi-vidchuvali-sebe-yak-vdoma-u-chernigovi-vidkrili-gurtozhitok-dlya-vpo-article/",
+   "source": "Час Чернігівський",
+   "mid": 28
+  },
+  "bdee172163": {
+   "title": "Тромб у дузі аорти: популярна сільська блогерка розповіла про нові виклики для її здоров’я",
+   "link": "https://cntime.cn.ua/tromb-u-duzi-aorti-populyarna-silska-blogerka-rozpovila-pro-novi-vikliki-dlya-yiyi-zdorovya-article/",
+   "source": "Час Чернігівський",
+   "mid": 29
+  },
+  "781dad972b": {
+   "title": "Кручу під селом на Чернігівщині засадили альпійськими соснами",
+   "link": "https://cntime.cn.ua/kruchu-pid-selom-na-chernigivshini-zasadili-alpijskimi-sosnami-article/",
+   "source": "Час Чернігівський",
+   "mid": 30
   }
  },
  "first_run": false
