@@ -139,6 +139,12 @@ def collect_news(state):
             if sent >= limit:
                 state["seen"].remove(key)  # запропонуємо наступного разу
                 continue
+            if CONFIG.get("auto_publish"):
+                if publish_news({"title": item["title"], "link": item["link"], "source": feed["name"]}):
+                    sent += 1
+                else:
+                    state["seen"].remove(key)
+                continue
             summary = item.get("description") or item.get("summary") or ""
             msg = api("sendMessage", chat_id=ADMIN_ID, parse_mode="HTML",
                       link_preview_options={"url": item["link"], "prefer_large_media": True, "show_above_text": True},
