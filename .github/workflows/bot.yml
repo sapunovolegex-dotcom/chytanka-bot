@@ -2,7 +2,7 @@ name: Chytanka bot
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,23 +15,26 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 70
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Run bot
+      - name: Run bot every 5 minutes
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           ADMIN_ID: ${{ secrets.ADMIN_ID }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           GROUP_ID: ${{ secrets.GROUP_ID }}
-        run: python bot.py
-      - name: Save state
         run: |
           git config user.name "chytanka-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add -A
-          git diff --cached --quiet || git commit -m "bot state"
-          git push
+          for i in $(seq 1 12); do
+            git pull -q --rebase || true
+            python bot.py || true
+            git add -A
+            git diff --cached --quiet || git commit -q -m "bot state"
+            git push -q || true
+            if [ "$i" -lt 12 ]; then sleep 300; fi
+          done
