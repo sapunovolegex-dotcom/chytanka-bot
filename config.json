@@ -16,11 +16,6 @@
       "filter": false
     },
     {
-      "name": "0462.ua",
-      "url": "https://www.0462.ua/rss",
-      "filter": false
-    },
-    {
       "name": "Біла хата",
       "url": "https://bilahata.net/feed/",
       "filter": false
