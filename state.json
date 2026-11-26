@@ -274,7 +274,12 @@
   "fa003faa2a",
   "f7c9ef097f",
   "c84d401a66",
-  "b7fc676020"
+  "b7fc676020",
+  "65107a9f7c",
+  "c5bb170604",
+  "1ab2285580",
+  "9d6bcb42ff",
+  "7e3329d0ec"
  ],
  "pending": {
   "a44020d9d5": {
@@ -498,6 +503,36 @@
    "link": "https://suspilne.media/poltava/1457952-25-griven-za-proizd-u-poltavi-ak-reaguut-miscevi-na-mozlive-zdorozcanna/",
    "source": "Суспільне",
    "mid": 44
+  },
+  "65107a9f7c": {
+   "title": "Хліб вивозили за кордон, а люди помирали вдома: як Голодомор знищував Чернігівщину (Відео)",
+   "link": "https://cheline.com.ua/chelinetv/suspilstvo-video/hlib-vyvozyly-za-kordon-a-lyudy-pomyraly-vdoma-yak-golodomor-znyshhuvav-chernigivshhynu-video-827932?utm_source=rss&utm_medium=rss&utm_campaign=hlib-vyvozyly-za-kordon-a-lyudy-pomyraly-vdoma-yak-golodomor-znyshhuvav-chernigivshhynu-video",
+   "source": "ЧЕline",
+   "mid": 45
+  },
+  "c5bb170604": {
+   "title": "У Чернігові відкрили простір для тимчасового проживання ВПО",
+   "link": "https://cheline.com.ua/news/society/u-chernigovi-vidkryly-prostir-dlya-tymchasovogo-prozhyvannya-vpo-827922?utm_source=rss&utm_medium=rss&utm_campaign=u-chernigovi-vidkryly-prostir-dlya-tymchasovogo-prozhyvannya-vpo",
+   "source": "ЧЕline",
+   "mid": 46
+  },
+  "1ab2285580": {
+   "title": "Видавці закликають уряд розширити програми підтримки після російських атак",
+   "link": "https://suspilne.media/culture/1457989-vidavci-zaklikaut-urad-rozsiriti-programi-pidtrimki-pisla-rosijskih-atak/",
+   "source": "Суспільне",
+   "mid": 47
+  },
+  "9d6bcb42ff": {
+   "title": "У Криму 26 листопада стався блекаут: що відомо (відео)",
+   "link": "https://suspilne.media/crimea/1458008-u-krimu-26-listopada-stavsa-blekaut-so-vidomo-video/",
+   "source": "Суспільне",
+   "mid": 48
+  },
+  "7e3329d0ec": {
+   "title": "На вулиці Галицькій у Франківську вантажівка наїхала на велосипедиста",
+   "link": "https://suspilne.media/ivano-frankivsk/1458007-na-vulici-galickij-u-frankivsku-vantazivka-naihala-na-velosipedista/",
+   "source": "Суспільне",
+   "mid": 49
   }
  },
  "first_run": false
