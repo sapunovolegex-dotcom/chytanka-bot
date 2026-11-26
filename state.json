@@ -1,5 +1,5 @@
 {
- "offset": 40395322,
+ "offset": 40395323,
  "seen": [
   "4131050c81",
   "28a0a86578",
@@ -236,8 +236,44 @@
   "225831f7ed",
   "e1695de793",
   "748f87e5c1",
-  "9066821922"
+  "9066821922",
+  "a44020d9d5",
+  "002f4ba95e",
+  "659de7c134",
+  "93e97d2817",
+  "90808fb6fe"
  ],
- "pending": {},
+ "pending": {
+  "a44020d9d5": {
+   "title": "На Чернігівщині за добу сталися чотири пожежі в житлових будинках: три — через порушення монтажу печей і димарів",
+   "link": "https://suspilne.media/chernihiv/1457678-na-cernigivsini-za-dobu-stalisa-cotiri-pozezi-v-zitlovih-budinkah-tri-cerez-porusenna-montazu-pecej-i-dimariv/",
+   "source": "Суспільне",
+   "mid": 7
+  },
+  "002f4ba95e": {
+   "title": "Готуватимуть спеціалістів для майбутнього відновлення країни: у Дніпрі відкрили навчально-практичний центр «Відбудова»",
+   "link": "https://suspilne.media/dnipro/1457654-gotuvatimut-specialistiv-dla-majbutnogo-vidnovlenna-kraini-u-dnipri-vidkrili-navcalno-prakticnij-centr-vidbudova/",
+   "source": "Суспільне",
+   "mid": 8
+  },
+  "659de7c134": {
+   "title": "На Тернопільщині водія судитимуть за ДТП, внаслідок якої загинула підлітка",
+   "link": "https://suspilne.media/ternopil/1457673-na-ternopilsini-vodia-suditimut-za-dtp-vnaslidok-akoi-pomerla-pidlitka/",
+   "source": "Суспільне",
+   "mid": 9
+  },
+  "93e97d2817": {
+   "title": "21-річній волинянці загрожує позбавлення волі за вбивство новонародженого сина — прокуратура",
+   "link": "https://suspilne.media/lutsk/1457667-21-ricnij-volinanci-zagrozue-pozbavlenna-voli-za-vbivstvo-novonarodzenogo-sina-prokuratura/",
+   "source": "Суспільне",
+   "mid": 10
+  },
+  "90808fb6fe": {
+   "title": "Постійний біль у спині: у кримського політв'язня Владлена Абдулкадирова погіршився стан здоров'я — дружина",
+   "link": "https://suspilne.media/crimea/1457665-postijnij-bil-u-spini-u-krimskogo-politvazna-vladlena-abdulkadirova-pogirsivsa-stan-zdorova-druzina/",
+   "source": "Суспільне",
+   "mid": 11
+  }
+ },
  "first_run": false
 }
