@@ -1,5 +1,5 @@
 {
- "offset": 40395323,
+ "offset": 40395330,
  "seen": [
   "4131050c81",
   "28a0a86578",
@@ -260,7 +260,12 @@
   "60d3c9d72a",
   "55f0311980",
   "bdee172163",
-  "781dad972b"
+  "781dad972b",
+  "609312d4d9",
+  "32cf64ea88",
+  "41b3bf8418",
+  "aa8cdca126",
+  "129974a76b"
  ],
  "pending": {
   "a44020d9d5": {
@@ -401,11 +406,35 @@
    "source": "Час Чернігівський",
    "mid": 29
   },
-  "781dad972b": {
-   "title": "Кручу під селом на Чернігівщині засадили альпійськими соснами",
-   "link": "https://cntime.cn.ua/kruchu-pid-selom-na-chernigivshini-zasadili-alpijskimi-sosnami-article/",
-   "source": "Час Чернігівський",
-   "mid": 30
+  "609312d4d9": {
+   "title": "В Одесі 45-річного чоловіка підозрюють у спробі шахрайства з квартирою на Французькому бульварі",
+   "link": "https://suspilne.media/odesa/1457902-v-odesi-45-ricnogo-colovika-pidozruut-u-sprobi-sahrajstva-z-kvartirou-na-francuzkomu-bulvari/",
+   "source": "Суспільне",
+   "mid": 31
+  },
+  "32cf64ea88": {
+   "title": "103 школи на Закарпатті навчають мовами нацменшин: як їх забезпечують підручниками та художньою літературою",
+   "link": "https://suspilne.media/uzhhorod/1457893-103-skoli-na-zakarpatti-navcaut-movami-nacmensin-ak-ih-zabezpecuut-pidrucnikami-ta-hudoznou-literaturou/",
+   "source": "Суспільне",
+   "mid": 32
+  },
+  "41b3bf8418": {
+   "title": "Підпалили два військові автомобілі: на Кіровоградщині судили двох чоловіків",
+   "link": "https://suspilne.media/kropyvnytskiy/1457771-pidpalili-dva-vijskovi-avtomobili-na-kirovogradsini-sudili-dvoh-colovikiv/",
+   "source": "Суспільне",
+   "mid": 33
+  },
+  "aa8cdca126": {
+   "title": "У селі Товмачик на Франківщині під час гасіння пожежі рятувальники знайшли тіло чоловіка",
+   "link": "https://suspilne.media/ivano-frankivsk/1457891-u-seli-tovmacik-na-frankivsini-pid-cas-gasinna-pozezi-ratuvalniki-znajsli-tilo-colovika/",
+   "source": "Суспільне",
+   "mid": 34
+  },
+  "129974a76b": {
+   "title": "Викрадення 6,2 млн грн з рахунків підприємств: провели обшуки на Рівненщині та у Києві",
+   "link": "https://suspilne.media/rivne/1457881-vikradenna-62-mln-grn-z-rahunkiv-pidpriemstv-proveli-obsuki-na-rivnensini-ta-u-kievi/",
+   "source": "Суспільне",
+   "mid": 35
   }
  },
  "first_run": false
