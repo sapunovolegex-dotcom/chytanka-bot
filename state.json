@@ -279,7 +279,12 @@
   "c5bb170604",
   "1ab2285580",
   "9d6bcb42ff",
-  "7e3329d0ec"
+  "7e3329d0ec",
+  "ef095e4901",
+  "1203fe1bcc",
+  "51ea374e38",
+  "d096c61e3f",
+  "7fd2928f13"
  ],
  "pending": {
   "a44020d9d5": {
@@ -533,6 +538,36 @@
    "link": "https://suspilne.media/ivano-frankivsk/1458007-na-vulici-galickij-u-frankivsku-vantazivka-naihala-na-velosipedista/",
    "source": "Суспільне",
    "mid": 49
+  },
+  "ef095e4901": {
+   "title": "Посадовцю міськради Олегу Семківу змінили запобіжний захід та оголосили підозру у корупції адвокату",
+   "link": "https://suspilne.media/ivano-frankivsk/1458005-posadovcu-miskradi-olegu-semkivu-zminili-zapobiznij-zahid-ta-ogolosili-pidozru-u-korupcii-advokatu/",
+   "source": "Суспільне",
+   "mid": 50
+  },
+  "1203fe1bcc": {
+   "title": "П'ятий рік без асфальту: коли відремонтують ділянку траси Н-13 у селі Жорнава на Закарпатті",
+   "link": "https://suspilne.media/uzhhorod/1457897-patij-rik-bez-asfaltu-koli-vidremontuut-dilanku-trasi-n-13-u-seli-zornava-na-zakarpatti/",
+   "source": "Суспільне",
+   "mid": 51
+  },
+  "51ea374e38": {
+   "title": "Під прицілом російських дронів: як у Запоріжжі ремонтують пошкоджений громадський транспорт",
+   "link": "https://suspilne.media/zaporizhzhia/1456979-pid-pricilom-rosijskih-droniv-ak-u-zaporizzi-remontuut-poskodzenij-gromadskij-transport/",
+   "source": "Суспільне",
+   "mid": 52
+  },
+  "d096c61e3f": {
+   "title": "На Житомирщині — сезон грипу: який попит на вакцину та хто її може отримати безоплатно",
+   "link": "https://suspilne.media/zhytomyr/1458013-na-zitomirsini-sezon-gripu-akij-popit-na-vakcinu-ta-hto-ii-moze-otrimati-bezoplatno/",
+   "source": "Суспільне",
+   "mid": 53
+  },
+  "7fd2928f13": {
+   "title": "«Я беру важких тварин»: в Ізмаїлі зооволонтер збудував притулок для травмованих і покинутих котів та собак",
+   "link": "https://suspilne.media/odesa/1457900-a-beru-vazkih-tvarin-v-izmaili-zoovolonter-zbuduvav-pritulok-dla-travmovanih-i-pokinutih-kotiv-ta-sobak/",
+   "source": "Суспільне",
+   "mid": 54
   }
  },
  "first_run": false
