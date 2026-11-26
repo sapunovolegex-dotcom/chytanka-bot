@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: chytanka-bot
@@ -38,3 +39,8 @@ jobs:
             git push -q || true
             if [ "$i" -lt 12 ]; then sleep 300; fi
           done
+      - name: Start the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run bot.yml --repo ${{ github.repository }} --ref main
