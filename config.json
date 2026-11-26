@@ -8,7 +8,7 @@
     {
       "name": "Суспільне",
       "url": "https://suspilne.media/rss/all.rss",
-      "filter": true
+      "filter": false
     },
     {
       "name": "Час Чернігівський",
