@@ -1,5 +1,5 @@
 {
- "offset": 40395320,
+ "offset": 40395322,
  "seen": [
   "4131050c81",
   "28a0a86578",
@@ -232,15 +232,12 @@
   "f0b12ced12",
   "73e275bbd6",
   "e359acb1af",
-  "aacaf1a6fd"
+  "aacaf1a6fd",
+  "225831f7ed",
+  "e1695de793",
+  "748f87e5c1",
+  "9066821922"
  ],
- "pending": {
-  "9855861e28": {
-   "title": "Росіяни атакували п’ять населених пунктів Чернігівщини: є поранені та руйнування",
-   "link": "https://cheline.com.ua/news/vijna/rosiyany-atakuvaly-p-yat-naselenyh-punktiv-chernigivshhyny-ye-poraneni-ta-rujnuvannya-827854?utm_source=rss&utm_medium=rss&utm_campaign=rosiyany-atakuvaly-p-yat-naselenyh-punktiv-chernigivshhyny-ye-poraneni-ta-rujnuvannya",
-   "source": "ЧЕline",
-   "mid": 6
-  }
- },
+ "pending": {},
  "first_run": false
 }
