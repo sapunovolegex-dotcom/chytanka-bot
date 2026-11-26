@@ -251,7 +251,12 @@
   "00b11616de",
   "b9b430aa6f",
   "1b89db5d23",
-  "541ec3fe91"
+  "541ec3fe91",
+  "8c758ee422",
+  "59a035159d",
+  "3bb4631eae",
+  "224888bbd3",
+  "c0cccf04a9"
  ],
  "pending": {
   "a44020d9d5": {
@@ -343,6 +348,36 @@
    "link": "https://suspilne.media/vinnytsia/1457757-na-vinniccini-vodij-otrimav-cotiri-roki-vaznici-za-dtp-iz-semiricnou-ditinou/",
    "source": "Суспільне",
    "mid": 21
+  },
+  "8c758ee422": {
+   "title": "Як промислова кібербезпека допомагає забезпечити безперервність виробництва",
+   "link": "https://cheline.com.ua/news/society/yak-promyslova-kiberbezpeka-dopomagaye-zabezpechyty-bezperervnist-vyrobnytstva-827886?utm_source=rss&utm_medium=rss&utm_campaign=yak-promyslova-kiberbezpeka-dopomagaye-zabezpechyty-bezperervnist-vyrobnytstva",
+   "source": "ЧЕline",
+   "mid": 22
+  },
+  "59a035159d": {
+   "title": "Тіла 12-річного хлопчика та його мами дістали з-під завалів будинку в Словʼянську: кількість жертв зросла до пʼяти",
+   "link": "https://suspilne.media/donbas/1457733-tila-12-ricnogo-hlopcika-ta-jogo-mami-distali-z-pid-zavaliv-budinku-v-slovansku-kilkist-zertv-zrosla-do-pati/",
+   "source": "Суспільне",
+   "mid": 23
+  },
+  "3bb4631eae": {
+   "title": "На Буковині прогнозують снігопади, ожеледицю і мороз до -16",
+   "link": "https://suspilne.media/chernivtsi/1457793-na-bukovini-prognozuut-snigopadi-ozeledicu-i-moroz-do-16/",
+   "source": "Суспільне",
+   "mid": 24
+  },
+  "224888bbd3": {
+   "title": "Зеленський: Росія завершує підготовку до нового удару по енергетиці та логістиці",
+   "link": "https://suspilne.media/1457810-zelenskij-rosia-zaversue-pidgotovku-do-novogo-udaru-po-energetici-ta-logistici/",
+   "source": "Суспільне",
+   "mid": 25
+  },
+  "c0cccf04a9": {
+   "title": "Російський удар обірвав життя чотирьох слідчих поліції Запорізької області",
+   "link": "https://suspilne.media/zaporizhzhia/1457743-rosijskij-udar-obirvav-zitta-cotiroh-slidcih-policii-zaporizkoi-oblasti/",
+   "source": "Суспільне",
+   "mid": 26
   }
  },
  "first_run": false
