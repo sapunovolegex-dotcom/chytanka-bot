@@ -269,7 +269,12 @@
   "c2266bb4de",
   "0e4e30603c",
   "0a72949c99",
-  "2cc95aad8c"
+  "2cc95aad8c",
+  "d74420929b",
+  "fa003faa2a",
+  "f7c9ef097f",
+  "c84d401a66",
+  "b7fc676020"
  ],
  "pending": {
   "a44020d9d5": {
@@ -463,6 +468,36 @@
    "link": "https://cntime.cn.ua/zhinka-prodaye-moloko-vid-fermera-z-plastikovoyi-bochki-pochim-article/",
    "source": "Час Чернігівський",
    "mid": 39
+  },
+  "d74420929b": {
+   "title": "Після тривалої невідомості на Чернігівщину прийшла трагічна звістка про загибель воїна",
+   "link": "https://cheline.com.ua/news/vijna/pislya-tryvaloyi-nevidomosti-na-chernigivshhynu-pryjshla-tragichna-zvistka-pro-zagybel-voyina-827914?utm_source=rss&utm_medium=rss&utm_campaign=pislya-tryvaloyi-nevidomosti-na-chernigivshhynu-pryjshla-tragichna-zvistka-pro-zagybel-voyina",
+   "source": "ЧЕline",
+   "mid": 40
+  },
+  "fa003faa2a": {
+   "title": "На Чернігівщині під час санітарної рубки незаконно вирубали 446 дерев на понад три мільйони гривень",
+   "link": "https://cheline.com.ua/news/society/na-chernigivshhyni-pid-chas-sanitarnoyi-rubky-nezakonno-vyrubaly-446-derev-na-ponad-try-miljony-gryven-827909?utm_source=rss&utm_medium=rss&utm_campaign=na-chernigivshhyni-pid-chas-sanitarnoyi-rubky-nezakonno-vyrubaly-446-derev-na-ponad-try-miljony-gryven",
+   "source": "ЧЕline",
+   "mid": 41
+  },
+  "f7c9ef097f": {
+   "title": "Через російську атаку пошкоджено будинок музиканта Валерія Харчишина та книжкову фабрику «Конві Прінт»",
+   "link": "https://suspilne.media/culture/1457936-cerez-rosijsku-ataku-poskodzeno-budinok-muzikanta-valeria-harcisina-ta-knizkovu-fabriku-konvi-print/",
+   "source": "Суспільне",
+   "mid": 42
+  },
+  "c84d401a66": {
+   "title": "На Житомирщині зіткнулися легковик і вантажівка: двох водіїв госпіталізували",
+   "link": "https://suspilne.media/zhytomyr/1457958-na-zitomirsini-zitknulisa-legkovik-i-vantazivka-dvoh-vodiiv-gospitalizuvali/",
+   "source": "Суспільне",
+   "mid": 43
+  },
+  "b7fc676020": {
+   "title": "25 гривень за проїзд у Полтаві: як реагують місцеві на можливе здорожчання",
+   "link": "https://suspilne.media/poltava/1457952-25-griven-za-proizd-u-poltavi-ak-reaguut-miscevi-na-mozlive-zdorozcanna/",
+   "source": "Суспільне",
+   "mid": 44
   }
  },
  "first_run": false
